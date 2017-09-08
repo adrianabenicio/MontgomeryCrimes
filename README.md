@@ -2,7 +2,7 @@
 
 Este projeto tem o objetivo de realizar análises a respeito dos crimes ocorridos em Montgomery Count, Maryland, no ano de 2013.
 
-Os dados utilizados estão no arquivo "MontgomeryCountyCrime2013_2.csv" deste repositório, mas também podem ser acessados no website de dados aberto do Condado de Montgomery, dataMontgomery (https://data.montgomerycountymd.gov/). Cada linha de dados corresponde a um crime reportado por um oficial de lei e contém as seguintes informações:
+Os dados utilizados estão no arquivo "MontgomeryCountyCrime2013_2.csv" deste repositório, mas também podem ser acessados no website de dados abertos do Condado de Montgomery, dataMontgomery (https://data.montgomerycountymd.gov/). Cada linha de dados corresponde a um crime reportado por um oficial de lei e contém as seguintes informações:
 
 * **Incident ID**: Police Incident Number
 * **CR Number**: Police Report Number
@@ -26,4 +26,4 @@ Os dados utilizados estão no arquivo "MontgomeryCountyCrime2013_2.csv" deste re
 * **Police District Number**: Major Police Boundary
 * **Location**: Location
 
-Para a manipulação dos dados, foi utilizada a linguagem Python 3 e a biblioteca Pandas, principalmente.
+Para a manipulação dos dados, foi utilizada a linguagem Python 3 e a biblioteca Pandas.
