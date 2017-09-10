@@ -27,3 +27,11 @@ The data used is in the "MontgomeryCountyCrime2013_2.csv" file of this repositor
 * **Location**: Location
 
 For the manipulation of the data, the Python 3 language and the Pandas library were used.
+
+
+
+# Contributors
+
+* Adriana Benício Galvão
+* Gisliany Lillian Alves de Oliveira
+* Jéssica Cabral de Araújo
