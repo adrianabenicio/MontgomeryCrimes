@@ -2,7 +2,7 @@
 
 This project aims to conduct analyzes of crimes in Montgomery Count, Maryland, in the year 2013.
 
-The data used is in the "MontgomeryCountyCrime2013_2.csv" file of this repository, but can also be accessed on the Montgomery County open data website, dataMontgomery (https://data.montgomerycountymd.gov/). Each row in the data set is a crime reported by a law enforcement officer and contains the following information:
+The data used is in the "MontgomeryCountyCrime2013_2.csv" file of this repository, but can also be accessed on the Montgomery County open data website: dataMontgomery (https://data.montgomerycountymd.gov/). Each row in the data is a crime reported by a law enforcement officer and contains the following information:
 
 * **Incident ID**: Police Incident Number
 * **CR Number**: Police Report Number
