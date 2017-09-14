@@ -35,6 +35,15 @@ For the manipulation of the data, the Python 3 language and the Pandas library w
 * Answer the proposed questions appropriately and provide a good data visualization through charts;
 * Elaborate relevant questions whose answer produces important information.
 
+# Insights
+
+From the crime data, the main insights were:
+
+* Determine the longest and shortest police response time. The purpose of this evaluation was to verify the quality of the police service through the response time and to determine if this time varies according to the district.
+* Another insight was to find the most common crime by the district. From this information is possible to analyse if there are common crimes in neighboring districts and to think about a possible spreading of that crime.
+* Furthermore, a relevant information could be to know in which places there are more occurrences of crimes and in which shift these crimes are most common.
+* Finally, other relevant information comes from determining the percentage of crimes against children, animals, and how many crimes involve drugs, sexual offenses, and unauthorized taking of someone’s personal property.
+
 # Contributors
 
 * Adriana Benício Galvão
