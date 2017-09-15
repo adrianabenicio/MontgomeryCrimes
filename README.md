@@ -26,7 +26,7 @@ The data used is in the "MontgomeryCountyCrime2013.csv" file of this repository,
 * **Police District Number**: Major Police Boundary
 * **Location**: Location
 
-For the manipulation of the data, the Python 3 language and the Pandas library were used.
+For the manipulation of the data, the Python 3 language, the NumPy and the Pandas libraries were used. For data visualization, we used the seaborn and matplotlib libraries.
 
 # Objectives
 
@@ -43,6 +43,16 @@ From the crime data, the main insights were:
 * Another insight was to find the most common crime by the district. From this information is possible to analyse if there are common crimes in neighboring districts and to think about a possible spreading of that crime.
 * Furthermore, a relevant information could be to know in which places there are more occurrences of crimes and in which shift these crimes are most common.
 * Finally, other relevant information comes from determining the percentage of crimes against children, animals, and how many crimes involve drugs, sexual offenses, and unauthorized taking of someone’s personal property.
+
+# Conclusions
+
+* For dispatch time analysis, three factors were used: hour, day of the week and month. According to the hours chart, most crimes occur during the morning (7am to 12pm). The beginning of the week was also the period most frequently (Monday, Tuesday and Wednesday). The analysis of the months was a little bit inconclusive, since the results were homogeneous where we have a maximum of 180 crimes of variation with the monthly average.
+* The analysis of the location of the crimes indicated the Silver Spring district as the most violent, with the highest number of crimes per capita and covering the highest number of violent crimes.
+* It was also observed that the most violent crimes occur in the morning and in places of residential life, like single family residence, apartments / condominiums, streets, parking lots, etc.
+* Analyzing the types of crime, we realize that the most common crime is "Driving under the influence" and there are 31 least common crimes (like parking offenses, robbery using a knife as weapon and others) with just one occurrence each.
+* 20.7% of the crimes are violent and the most common violent crime is "Driving under the influence" too. The most common nonviolent crime is "CDS-POSS MARIJUANA/HASHISH".
+* 45.18% of the crimes involve the unauthorized taking of someone’s personal property by another person and 20.02% are drug-related crimes. 
+* Crimes against children compose 0.58% of the crimes, while sex crimes are 1.04% of the total.
 
 # Contributors
 
