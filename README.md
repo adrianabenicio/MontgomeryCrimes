@@ -50,7 +50,7 @@ From the crime data, the main insights were:
 * The analysis of the location of the crimes indicated the Silver Spring district as the most violent, with the highest number of crimes per capita and covering the highest number of violent crimes.
 * It was also observed that the most violent crimes occur in the morning and in places of residential life, like single family residence, apartments / condominiums, streets, parking lots, etc.
 * Analyzing the types of crime, we realize that the most common crime is "Driving under the influence" and there are 31 least common crimes (like parking offenses, robbery using a knife as weapon and others) with just one occurrence each.
-* 20.7% of the crimes are violent and the most common violent crime is "Driving under the influence" too. The most common nonviolent crime is "CDS-POSS MARIJUANA/HASHISH".
+* 20.7% of the crimes are violent and the most common violent crime is "Driving under the influence" too. The most common nonviolent crime is "CDS-poss marijuana/hashish".
 * 45.18% of the crimes involve the unauthorized taking of someone’s personal property by another person and 20.02% are drug-related crimes. 
 * Crimes against children compose 0.58% of the crimes, while sex crimes are 1.04% of the total.
 
